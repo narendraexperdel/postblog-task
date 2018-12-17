@@ -1,0 +1,10 @@
+src/resources
+build
+.settings
+.project
+.classpath
+<<<<<<< HEAD
+/bin
+=======
+/bin/
+>>>>>>> d8397616253f95627150524e3aed19d96045788a

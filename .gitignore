@@ -1,4 +1,4 @@
-src/resources
+src/main/resources/application.properties
 build
 .settings
 .project
